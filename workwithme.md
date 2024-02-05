@@ -8,6 +8,7 @@ layout: default
 >I also process all the request in batch so please do not submit multiple forms.
 
 ### PhD Applications
+<!--
 [Fill out this
 form](https://docs.google.com/forms/d/e/1FAIpQLSfDqqM4fpUkA6bL_1Gmd8r7_yKiYmNJqohWzinQxf6gaXzPgQ/viewform)
 seek for applying for Ph.D. or willing to work in my group.
@@ -17,7 +18,9 @@ info on applying for PhD positions.
 
 Please, avoid to write me a directly email since it may takes long
 time to reply.
+-->
 
+<!--
 ### Tesi ACSAI e Magistrali (ACSAI and Master Thesis) (in 🇮🇹)
 E' possibile completare il proprio corso di studi prendendo una tesi 
 di ACSAI (bachelor in AI) o magistrale su argomenti di ricerca che riguardano computer
@@ -42,3 +45,4 @@ Per farsi un'idea è possibile esplorare la sezione
 [ricerca](research). Per concordare una tesi,
 potete [contattarmi](contact) direttamente, **inserendo nell'oggetto
 della email il prefisso `[Tesi di Laurea]`.**
+-->

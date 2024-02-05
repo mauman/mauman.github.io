@@ -2,17 +2,17 @@
 layout: default
 ---
 
-## AI Research Group @ DI Sapienza <a name="research"></a>
+<!-- ## AI Research Group @ DI Sapienza <a name="research"></a>
 I am a computer scientist and professor interested in building intelligent machines. I started with **computer vision**, trying to give machines the gift of observing the world through cameras (eyes) as humans do. I am currently expanding my research toward being "contaminated" by different fields such as (in order of importance): **machine learning, vision, natural language processing (NLP), computer graphics, biometrics, cybersecurity, and the interactions of those**. I also sympathize with the [slow science movement](http://slow-science.org) when applied to science in computer vision and machine learning.
 
 **<span style="color:red;">NEW:</span>** I am looking for a **postdoc**---though also I am open to students that have a master degree with experience in vision/ML. Project is on _proactive defense to avoid image manipulations and robustness of AI_. If interest please write an email directly with **[postdoc]** tag in the email subject.
 
 As I am building an international group and lab in Sapienza if you are a brilliant and motivated master's student at Sapienza and you seek to pursue a Doctorate of Philosophy (Ph.D.) in AI and Computer Science, [please get in touch with me](workwithme.md)! Possibility of internships during the Ph.D. in the US to USC, USC ISI, MSU and possibly Amazon, Meta AI.
-
+-->
 
 ## Student Supervision
 
-<table>
+<!--table>
   <tr>
     <td><a href="https://www.linkedin.com/in/senadbeadini/" class="circle">
 	<img height="128" width="128" src="https://senad96.github.io/assets/img/pic1.jpeg" alt="Senad Beadini"></a>
@@ -53,13 +53,13 @@ As I am building an international group and lab in Sapienza if you are a brillia
 		</small>
 	</span></td>
   </tr>
-</table>
+</table-->
 
 
 ## Collaborations
 
 
-<table>
+<!--table>
     <tr>
       <th>USC</th>
       <th>UCLA</th>
@@ -70,19 +70,10 @@ As I am building an international group and lab in Sapienza if you are a brillia
       <td><img width="75%" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/800px-The_University_of_California_UCLA.svg.png' /></td>
       <td><img width="120%" src='https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Michigan_State_University_seal.svg/640px-Michigan_State_University_seal.svg.png'/></td>
     </tr>
-</table>
+</table-->
 
 
 
 
 ## Recent Research Spotlight
-#### Exploring the Connection between Robust and Generative Models
-<a href="projects/Robust_generative"><img src="https://senad96.github.io/assets/img/inversion_c.png"></a>
-#### Controllable Image Synthesis with Robust Models
-<a href="projects/magic"><img src="https://mozhdehrouhsedaghat.github.io/static/images/header.png"></a>
-#### Enforcing smoothness for face segmentation
-<a href="projects/structure_via_consensus"><img src="https://iacopomasi.github.io/projects/structure_via_consensus/imgs/teaser.png"></a>
-#### Isolating Deepfake videos
-<a href="projects/dfd"><img src="projects/dfd/images/logo.png"></a>
-#### Deep Face Recognition Tutorial
-<a href="projects/deep_face_recognition"><img src="https://github.com/isi-vista/deep-face-recognition-tutorial/blob/master/face_rec.png?raw=true"> </a>
+
